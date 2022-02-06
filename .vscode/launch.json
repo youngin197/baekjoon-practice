@@ -14,7 +14,7 @@
       "program": "c:/Users/user/baekjoon/baekjoon_practice/math_1/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
-      "miDebuggerPath": "C:/mingw64/bin/gdb.exe",
+      "miDebuggerPath": "gdb",
       "externalConsole": false,
       "setupCommands": [
         {
